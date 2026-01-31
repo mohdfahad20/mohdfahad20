@@ -80,7 +80,7 @@ I'm a Computer Engineering graduate with a passion for turning data into insight
 
 ## 💼 Experience Highlights
 
-**🔹 Cognizant** | Programmer Analyst Trainee *(Nov 2024 - Present)*
+**🔹 Cognizant** | Programmer Analyst Trainee *(Nov 2025 - Present)*
 - DevOps and Cloud training with hands-on AWS implementations
 
 **🔹 Shaadi.com** | Data Science Intern *(Dec 2024 - Mar 2025)*
