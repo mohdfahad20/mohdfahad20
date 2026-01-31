@@ -4,6 +4,7 @@
   
 ### Programmer Analyst Trainee @ Cognizant | Data Science & ML Enthusiast | Cloud & DevOps Learner
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://mohdfahad20.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohd-fahad-chougle-750b80259)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fahadchougle020304@gmail.com)
 
