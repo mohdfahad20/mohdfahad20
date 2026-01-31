@@ -77,18 +77,6 @@ I'm a Computer Engineering graduate with a passion for turning data into insight
 
 ---
 
-
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohdfahad20&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-</div>
-
----
-
 ## 💼 Experience Highlights
 
 **🔹 Cognizant** | Programmer Analyst Trainee *(Nov 2024 - Present)*
